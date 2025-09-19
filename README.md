@@ -137,11 +137,12 @@ plt.show()
 # Output Waveform
 
 #PCM
-<img width="1148" height="847" alt="Screenshot 2025-09-13 154405" src="https://github.com/user-attachments/assets/01b96c2e-5a37-4359-bcfd-c59896a060bc" />
+<img width="1203" height="590" alt="download (2)" src="https://github.com/user-attachments/assets/da1937e1-af14-4e8d-83d7-ded16640f77d" />
+
+
 #DC
 
-<img width="1075" height="478" alt="Screenshot 2025-09-13 155005" src="https://github.com/user-attachments/assets/80ad0ab0-d565-4004-b0a0-c849d3e213c8" />
-
+<img width="1189" height="990" alt="download" src="https://github.com/user-attachments/assets/4533153b-aa9d-450b-8b56-a74d26e8f1a6" />
 
 # Results
 ```
